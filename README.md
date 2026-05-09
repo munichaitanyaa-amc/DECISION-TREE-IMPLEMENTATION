@@ -51,4 +51,4 @@ features.
 
 OUTPUT:
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/708398b2-fd2f-4bde-b22d-989603daabc8" />
+<img width="1366" height="634" alt="Image" src="https://github.com/user-attachments/assets/bade7da5-2198-42c6-8940-615af5268f8a" />
