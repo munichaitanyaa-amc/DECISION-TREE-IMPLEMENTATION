@@ -48,3 +48,7 @@ One of the major advantages of decision trees is their simplicity and interpreta
 visualized easily, allowing users to understand how predictions are made. They can handle both numerical and categorical data without 
 requiring extensive preprocessing. Decision trees also work well with non-linear relationships and can automatically select important 
 features.
+
+OUTPUT:
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/708398b2-fd2f-4bde-b22d-989603daabc8" />
