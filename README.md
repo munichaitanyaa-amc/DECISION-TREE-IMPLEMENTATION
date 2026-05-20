@@ -44,6 +44,7 @@ necessary libraries, loading the dataset, splitting the data, creating the model
 predictions using the predict() method. After prediction, the model performance is evaluated using metrics such as accuracy, precision, 
 recall, and confusion matrix.
 
+
 One of the major advantages of decision trees is their simplicity and interpretability. Unlike complex algorithms, decision trees can be 
 visualized easily, allowing users to understand how predictions are made. They can handle both numerical and categorical data without 
 requiring extensive preprocessing. Decision trees also work well with non-linear relationships and can automatically select important 
